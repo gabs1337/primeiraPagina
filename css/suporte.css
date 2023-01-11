@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+}
+h1{
+    color: white;
+    text-align: center;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: ;
+}
+input{
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+}
+input[type=tel]{
+    width: 50%;
+}
+
+#textRich{
+    
+}

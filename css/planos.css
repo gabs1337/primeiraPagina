@@ -1,0 +1,185 @@
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+
+}
+.banner1{
+    
+    background-image: url(/img/demon-slayer-temporada-2-visual.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: thin solid;
+       
+ 
+
+}
+
+.plano_mensal{
+    background-color: #FF9F1C;
+    height: 600px;
+    width: 368px;
+    border: thin solid;
+    border-radius: 5px;
+    margin: 0px 10px 10px 0;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.valor {
+   
+    
+}
+div>p{
+    margin-top: 10px;
+}
+div>span{
+    margin-top: 40px;
+}
+button{
+    background-color: #090909;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 12px;
+    
+}
+
+ul>li{
+    margin-top: 5px;
+    text-decoration: solid;
+
+}
+ul>li::before{
+    content: "✓";
+}
+.beneficios{
+    margin-top: 10px;
+}
+
+.plano_anual{
+    background-color: #FF9F1C;
+    height: 600px;
+    width: 368px;
+    border: thin solid;
+    border-radius: 5px;
+    margin: 0px 10px 10px 0;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.valor {
+    
+}
+div>p{
+    margin-top: 10px;
+}
+div>span{
+    margin-top: 40px;
+}
+button{
+    background-color: #090909;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 12px;
+    
+}
+
+ul>li{
+    margin-top: 5px;
+    text-decoration: solid;
+}
+ul>li::before{
+    content: "✓";
+}
+.beneficios{
+    margin-top: 10px;
+}
+
+.plano_6meses{
+    background-color: #FF9F1C;
+    height: 600px;
+    width: 368px;
+    border: thin solid;
+    border-radius: 5px;
+    margin: 0px 10px 10px 0;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h3{
+    margin-top: 30px;
+}
+
+.valor {
+    
+}
+div>p{
+    margin-top: 10px;
+}
+div>span{
+    margin-top: 40px;
+}
+button{
+    background-color: #090909;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 12px;
+    
+}
+
+
+ul>li{
+    margin-top: 5px;
+    text-decoration: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul>li::before{
+    content: "✓";
+}
+.beneficios{
+    margin-top: 10px;
+}
+.melhor{
+    position: absolute;
+    padding: 10px;
+    background-color: #090909;
+    color: white;
+    margin-bottom: 600px;
+
+}
